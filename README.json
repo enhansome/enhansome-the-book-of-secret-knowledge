@@ -1,0 +1,2112 @@
+{
+  "items": [
+    {
+      "description": "This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.",
+      "items": [],
+      "title": ":notebook_with_decorative_cover: What is it?"
+    },
+    {
+      "description": "For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.",
+      "items": [],
+      "title": ":restroom: For whom?"
+    },
+    {
+      "description": "This project exists thanks to all the people who contribute.\n",
+      "items": [],
+      "title": "Code Contributors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Financial Contributors"
+    },
+    {
+      "description": "GitHub exposes an RSS/Atom feed of the commits, which may also be useful if you want to be kept informed about all changes.",
+      "items": [],
+      "title": ":newspaper: RSS Feed & Updates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":trident: The Book of Secret Knowledge (Chapters)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CLI Tools [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Shells"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Shell plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Managers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Text editors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Files and directories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Network"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Network (DNS)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Network (HTTP)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: SSL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Auditing Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: System Diagnostics/Debuggers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Log Analyzers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Databases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: TOR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Messengers/IRC Clients"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Productivity"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GUI Tools [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Terminal emulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Network"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Browsers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Password Managers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Messengers/IRC Clients"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Messengers (end-to-end encryption)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Text editors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Tools [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Browsers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: SSL/Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: HTTP Headers & Web Linters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: DNS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Mail"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Encoders/Decoders and Regex testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Net-tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Privacy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Code parsers/playgrounds"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Performance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Mass scanners (search engines)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Generators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Passwords"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: CVE/Exploits databases"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Mobile apps scanners"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Private Search Engines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Secure Webmail Providers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Crypto"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: PGP Keyservers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Systems/Services [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Operating Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: HTTP(s) Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: DNS Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Other Services"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Security/hardening"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Networks [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Labs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Containers/Orchestration [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: CLI Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Web Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Manuals/Tutorials/Best Practices"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Manuals/Howtos/Tutorials [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Shell/Command line"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Text Editors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Sed & Awk & Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: *nix & Network"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Microsoft"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Large-scale systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: System hardening"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Security & Privacy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Web Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: All-in-one"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Ebooks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Inspiring Lists [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: SysOps/DevOps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Developers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Security/Pentesting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blogs/Podcasts/Videos [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: SysOps/DevOps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Developers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Geeky Persons"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Geeky Blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Geeky Vendor Blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Geeky Cybersecurity Podcasts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Geeky Cybersecurity Video Blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Best Personal Twitter Accounts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Best Commercial Twitter Accounts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: A piece of history"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hacking/Penetration Testing [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Pentesters arsenal tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Pentests bookmarks collection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Backdoors/exploits"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Wordlists and Weak passwords"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Bounty platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Web Training Apps (local installation)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Labs (ethical hacking platforms/trainings/CTFs)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: CTF platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Other resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Your daily knowledge and news [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: RSS Readers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: IRC Channels"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ":black_small_square: Other/All-in-one"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Cheat Sheets [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Build your own DNS Servers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Build your own Certificate Authority"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Build your own System/Virtual Machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DNS Servers list (privacy)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TOP Browser extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "TOP Burp extensions"
+    },
+    {
+      "description": "IP addresses can be shortened by dropping the zeroes:\nFor more information please see How to Obscure Any URL and Magic IP Address Shortcuts.",
+      "items": [],
+      "title": "Bypass WAFs by Shortening IP Address (by 0xInfection)"
+    },
+    {
+      "description": "Hashing\nplaintext :arrow_right: hash hash :no_entry: plaintext\nSymmetric encryption\nplaintext :arrow_right: :key: :arrow_right: ciphertext plaintext :arrow_left: :key: :arrow_left: ciphertext (:key: shared key)\nAsymmetric encryption\nplaintext :arrow_right: :key: :arrow_right: ciphertext plaintext :arrow_left: :part_alternation_mark: :arrow_left: ciphertext (:key: public key, :part_alternation_mark: private key)\nEncoding\ntext :arrow_right: encoded text :arrow_left: encoded",
+      "items": [],
+      "title": "Hashing, encryption and encoding (by Michal Špaček)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shell One-liners [TOC]"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: terminal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reload shell without exit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Close shell keeping all subprocess running"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Exit without saving shell history"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Perform a branching conditional"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pipe stdout and stderr to separate commands"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Redirect stdout and stderr each to separate files and print both to the screen"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List of commands you use most often"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sterilize bash history"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Quickly backup a file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Empty a file (truncate to 0 size)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete all files in a folder that don't match a certain file extension"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pass multi-line string to a file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Edit a file on a remote host using vim"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Create a directory and change into it at the same time"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Convert uppercase files to lowercase files"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print a row of characters across the terminal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show shell history without line numbers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Run command(s) after exit session"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate a sequence of numbers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Simple Bash filewatching"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: busybox"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Static HTTP web server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: mount"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remount a filesystem as read/write"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: fuser"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show which processes use the files/directories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show what PID is listening on specific port"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show all processes using the named filesystems or block device"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: lsof"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show process that use internet connection at the moment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show process that use specific port number"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lists all listening ports together with the PID of the associated process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List all open ports and their owning executables"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show all open ports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show open ports (LISTEN)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List all files opened by a particular command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "View user activity per directory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show 10 largest open files"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show current working directory of a process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: ps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show a 4-way scrollable process tree with full details"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Processes per user counter"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show all processes by name with main header"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: find"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Find files that have been modified on your system in the past 60 minutes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Find all files larger than 20M"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Find duplicate files (based on MD5 hash)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Change permission only for files"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Change permission only for directories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Find files and directories for specific user/group"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Find files and directories for all without specific user/group"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Looking for files/directories that only have certain permission"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete older files than 60 days"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recursively remove all empty sub-directories from a directory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "How to find all hard links to a file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recursively find the latest modified files"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recursively find/replace of a string with sed"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recursively find/replace of a string in directories and file names"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recursively find suid executables"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: top"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: vmstat"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show current system utilization will get refreshed every 5 seconds"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Display report a summary of disk operations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Display report of event counters and memory stats"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Display report about kernel objects stored in slab layer cache"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: iostat"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show information only about the CPU utilization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show information only about the disk utilization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show information only about the LVM utilization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: strace"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Track with child processes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Track process with 30 seconds limit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Track processes and redirect output to a file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Track with print time spent in each syscall and limit length of print strings"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Track the open request of a network port"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Track the open request of a network port (show TCP/UDP)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: kill"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Kill a process running on port"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: diff"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compare two directory trees"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compare output of two commands"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: vimdiff"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Highlight the exact differences, based on characters and words"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compare two JSON files"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compare Hex dump"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: tail"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Annotate tail -f with timestamps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analyse an Apache access log for the most common IP addresses"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analyse web server log and show only 5xx http codes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: tar"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "System backup with exclude specific directories"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "System backup with exclude specific directories (pigz)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: dump"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "System backup to file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Restore system from lzo file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: cpulimit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Limit the cpu usage of a process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: pwdx"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show current working directory of a process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: taskset"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Start a command on only one CPU core"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: tr"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show directories in the PATH, one per line"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: chmod"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove executable bit from all files in the current directory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Restore permission for /bin/chmod"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: who"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Find last reboot time"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Detect a user sudo-su'd into the current shell"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: last"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Was the last reboot a panic?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: screen"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Start screen in detached mode"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attach to an existing screen session"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: script"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Record and replay terminal session"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: du"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show 20 biggest directories with 'K M G'"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: inotifywait"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Init tool everytime a file in a directory is modified"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: openssl"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing connection to the remote host"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing connection to the remote host (debug mode)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing connection to the remote host (with SNI support)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing connection to the remote host with specific ssl version"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing connection to the remote host with specific ssl cipher"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Verify 0-RTT"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate private key without passphrase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate private key with passphrase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove passphrase from private key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Encrypt existing private key with a passphrase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Check private key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Get public key from private key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate private key and CSR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate CSR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate CSR (metadata from existing certificate)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List available EC curves"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print ECDSA private and public keys"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate ECDSA private key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate private key and CSR (ECC)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate self-signed certificate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate self-signed certificate from existing private key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate self-signed certificate from existing private key and csr"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate DH public parameters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Display DH public parameters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Extract private key from pfx"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Extract private key and certs from pfx"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Extract certs from p7b"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Convert DER to PEM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Convert PEM to DER"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Verification of the private key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Verification of the public key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Verification of the certificate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Verification of the CSR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Check the private key and the certificate are match"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Check the private key and the CSR are match"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: secure-delete"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Secure delete with shred"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Secure delete with scrub"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Secure delete with badblocks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Secure delete with secure-delete"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: dd"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show dd status every so often"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Redirect output to a file with dd"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: gpg"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List all of the packets in an encrypted file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: system-other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reboot system from init"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Init system from single user mode"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show current working directory of a process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show actual pathname of the executed command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Find your external IP address (external services)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Repeat URL request"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Check DNS and HTTP trace with headers for specific domains"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: ssh"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Escape Sequence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Compare a remote file with a local file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSH connection through host in the middle"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Run command over SSH on remote host"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Get public key from private key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Get all fingerprints"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSH authentication with user password"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSH authentication with publickey"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Simple recording SSH session"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Using Keychain for SSH logins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSH login without processing any login scripts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSH remote port forwarding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: linux-dev"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Read and write to TCP or UDP sockets with common bash tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: tcpdump"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Capture all ICMP packets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Check protocol used (TCP or UDP) for service"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Display ASCII text (to parse the output using grep or other)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Grab everything between two keywords"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Grab user and pass ever plain http"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Extract HTTP User Agent from HTTP request header"
+    },
+    {
+      "description": "or simply:",
+      "items": [],
+      "title": "Capture only HTTP GET and POST packets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Top hosts by packets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Excludes any RFC 1918 private address"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: tcpick"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analyse packets in real-time"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: nmap"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ping scans the network"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show only open ports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Full TCP port scan using with service version detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Nmap scan and pass output to Nikto"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recon specific ip:service with Nmap NSE scripts stack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Transfer data file (archive)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Launch remote shell"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Simple file server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Simple minimal HTTP Server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Simple HTTP Proxy (single connection)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Create a single-use TCP or UDP proxy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: gnutls-cli"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing connection to remote host (with SNI support)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing connection to remote host (without SNI support)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: socat"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: p0f"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: netstat"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graph # of connections for each hosts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Monitor open connections for specific port including listen, count and sort it per IP"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Grab banners from local IPv4 listening ports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: rsync"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rsync remote data as root using sudo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: host"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resolves the domain name (using external dns server)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Checks the domain administrator (SOA record)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: dig"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resolves the domain name (short output)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lookup NS record for specific domain"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Query only answer section"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Query ALL DNS Records"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DNS Reverse Look-up"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: certbot"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate multidomain certificate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate wildcard certificate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generate certificate with 4096 bit private key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: network-other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Get all subnets for specific AS (Autonomous system)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resolves domain name from dns.google.com with curl and jq"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: git"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Log alias for a decent view of your repo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: python"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Static HTTP web server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Static HTTP web server with SSL support"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Encode base64"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Decode base64"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: awk"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search for matching lines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search non matching lines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print matching lines with numbers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print the last column"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Find all the lines longer than 80 characters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print only lines of less than 80 characters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print double new lines a file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print line numbers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print line numbers for only non-blank lines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print the line and the next two (i=5) lines after the line matching regexp"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print the lines starting at the line matching 'server {' until the line matching '}'"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print multiple columns with separators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove empty lines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete trailing white space (spaces, tabs)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete leading white space"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove duplicate consecutive lines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove duplicate entries in a file without sorting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Exclude multiple columns"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Substitute foo for bar on lines matching regexp"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Add some characters at the beginning of matching lines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Get the last hour of Apache logs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: sed"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Print a specific line from a file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove a specific line from a file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove a range of lines from a file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete string +N next lines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: grep"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search for a \"pattern\" inside all files in the current directory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show only for multiple patterns"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Except multiple patterns"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show data from file without comments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show data from file without comments and new lines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show strings with a dash/hyphen"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove blank lines from a file and save output to new file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tool: perl"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search and replace (in place)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Edit of files changing all foo to bar (and backup original)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Prints the first 20 lines from files"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Search lines 10 to 20"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete first 10 lines (and backup original)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete all but lines between foo and bar (and backup original)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reduce multiple blank lines to a single line"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Convert tabs to spaces (1t = 2sp)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Read input from a file and report number of lines and characters"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shell functions [TOC]"
+    },
+    {
+      "description": "Example:",
+      "items": [],
+      "title": "Domain resolve"
+    },
+    {
+      "description": "Example:",
+      "items": [],
+      "title": "Get ASN"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:51.430Z",
+    "original_repository": "trimstray/the-book-of-secret-knowledge",
+    "original_repository_sha": "7d37069a361d3fd9f214480755f7969744e866fa",
+    "enhanced_repository": "enhansome/enhansome-the-book-of-secret-knowledge",
+    "enhanced_repository_description": null,
+    "title": "Awesome the book of secret knowledge with stars"
+  }
+}
