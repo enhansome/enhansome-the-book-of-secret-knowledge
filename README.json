@@ -16,7 +16,7 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 239286
+                "stars": 239550
               },
               "title": "Tool: system-other"
             },
@@ -31,7 +31,7 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 239286
+                "stars": 239550
               },
               "title": "Tool: network-other"
             }
@@ -45,7 +45,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:57:06.673Z",
+    "last_updated": "2026-08-21T08:59:06.907Z",
     "original_repository": "trimstray/the-book-of-secret-knowledge",
     "original_repository_id": 138393139,
     "original_repository_sha": "7d37069a361d3fd9f214480755f7969744e866fa",
