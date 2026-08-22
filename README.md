@@ -77,7 +77,7 @@ This project exists thanks to all the people who contribute.
 
 ## :newspaper:  RSS Feed & Updates
 
-GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) ⭐ 239,550 | 🐛 166 | 📅 2024-11-19 feed of the commits, which may also be useful if you want to be kept informed about all changes.
+GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) ⭐ 239,756 | 🐛 166 | 📅 2024-11-19 feed of the commits, which may also be useful if you want to be kept informed about all changes.
 
 ## :ballot\_box\_with\_check:  ToDo
 
@@ -2781,7 +2781,7 @@ For more information please look at these great explanations:
 * [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)
 * [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)
 * [Object Identifiers (OIDs)](https://www.alvestrand.no/objectid/)
-* [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,668 | 🐛 1,532 | 🌐 C | 📅 2026-08-21
+* [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,673 | 🐛 1,528 | 🌐 C | 📅 2026-08-21
 
 ###### List available EC curves
 
@@ -3047,7 +3047,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ***
 
-##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 239,550 | 🐛 166 | 📅 2024-11-19
+##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 239,756 | 🐛 166 | 📅 2024-11-19
 
 ###### Reboot system from init
 
@@ -3953,7 +3953,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ***
 
-##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 239,550 | 🐛 166 | 📅 2024-11-19
+##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 239,756 | 🐛 166 | 📅 2024-11-19
 
 ###### Get all subnets for specific AS (Autonomous system)
 
@@ -4445,4 +4445,4 @@ Unsuccessful ASN gathering.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
