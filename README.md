@@ -62,7 +62,7 @@ All **suggestions/PR** are welcome!
 
 This project exists thanks to all the people who contribute.
 
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
+[<img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false">](https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors) ⭐ 240,097 | 🐛 169 | 📅 2024-11-19
 
 ### Financial Contributors
 
@@ -77,7 +77,7 @@ This project exists thanks to all the people who contribute.
 
 ## :newspaper:  RSS Feed & Updates
 
-GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) ⭐ 240,063 | 🐛 168 | 📅 2024-11-19 feed of the commits, which may also be useful if you want to be kept informed about all changes.
+GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) ⭐ 240,097 | 🐛 169 | 📅 2024-11-19 feed of the commits, which may also be useful if you want to be kept informed about all changes.
 
 ## :ballot\_box\_with\_check:  ToDo
 
@@ -2775,13 +2775,13 @@ __EOF__
 
 For more information please look at these great explanations:
 
+* [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,673 | 🐛 1,534 | 🌐 C | 📅 2026-08-24
 * [RFC 5280](https://tools.ietf.org/html/rfc5280)
 * [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
 * [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
 * [Your OpenSSL CSR command is out of date](https://expeditedsecurity.com/blog/openssl-csr-command/)
 * [OpenSSL example configuration file](https://www.tbs-certificats.com/openssl-dem-server-cert.cnf)
 * [Object Identifiers (OIDs)](https://www.alvestrand.no/objectid/)
-* [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,673 | 🐛 1,531 | 🌐 C | 📅 2026-08-21
 
 ###### List available EC curves
 
@@ -3047,7 +3047,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ***
 
-##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 240,063 | 🐛 168 | 📅 2024-11-19
+##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 240,097 | 🐛 169 | 📅 2024-11-19
 
 ###### Reboot system from init
 
@@ -3953,7 +3953,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ***
 
-##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 240,063 | 🐛 168 | 📅 2024-11-19
+##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 240,097 | 🐛 169 | 📅 2024-11-19
 
 ###### Get all subnets for specific AS (Autonomous system)
 

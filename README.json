@@ -6,6 +6,64 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Look also: A naive utility to censor credentials in command history",
+                      "description": ".",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 172371051,
+                        "language": "Go",
+                        "last_commit": "2025-05-03T03:31:02Z",
+                        "owner": "lbonanomi",
+                        "repo": "go",
+                        "stars": 8
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Sterilize bash history"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tool: terminal"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "openssl objects.txt",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 7634677,
+                        "language": "C",
+                        "last_commit": "2026-08-24T10:19:14Z",
+                        "owner": "openssl",
+                        "repo": "openssl",
+                        "stars": 30673
+                      }
+                    }
+                  ],
+                  "description": "Other values in :\nExample of (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under ):\nFull example:\nFor more information please look at these great explanations:",
+                  "node_type": "group",
+                  "title": "Generate CSR with -config param"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tool: openssl"
+            },
+            {
               "children": [],
               "description": null,
               "node_type": "item",
@@ -16,7 +74,7 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240063
+                "stars": 240097
               },
               "title": "Tool: system-other"
             },
@@ -31,7 +89,7 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240063
+                "stars": 240097
               },
               "title": "Tool: network-other"
             }
@@ -45,7 +103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:05:18.490Z",
+    "last_updated": "2026-08-24T13:48:27.760Z",
     "original_repository": "trimstray/the-book-of-secret-knowledge",
     "original_repository_id": 138393139,
     "original_repository_sha": "7d37069a361d3fd9f214480755f7969744e866fa",
