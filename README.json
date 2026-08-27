@@ -47,10 +47,10 @@
                         "archived": false,
                         "id": 7634677,
                         "language": "C",
-                        "last_commit": "2026-08-26T08:54:15Z",
+                        "last_commit": "2026-08-27T09:24:14Z",
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30693
+                        "stars": 30700
                       }
                     }
                   ],
@@ -74,7 +74,7 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240408
+                "stars": 240602
               },
               "title": "Tool: system-other"
             },
@@ -89,7 +89,7 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240408
+                "stars": 240602
               },
               "title": "Tool: network-other"
             }
@@ -103,9 +103,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:02:37.834Z",
-    "original_repository": "trimstray/the-book-of-secret-knowledge",
-    "original_repository_id": 138393139,
+    "last_updated": "2026-08-27T12:06:33.541Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 138393139,
+      "language": null,
+      "last_commit": "2024-11-19T14:00:38Z",
+      "owner": "trimstray",
+      "repo": "the-book-of-secret-knowledge",
+      "stars": 240602
+    },
     "original_repository_sha": "7d37069a361d3fd9f214480755f7969744e866fa",
     "enhanced_repository": "enhansome/enhansome-the-book-of-secret-knowledge",
     "enhanced_repository_description": null,
