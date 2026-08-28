@@ -22,7 +22,8 @@
                         "owner": "lbonanomi",
                         "repo": "go",
                         "stars": 8
-                      }
+                      },
+                      "first_seen": "2026-08-28T20:12:29.055Z"
                     }
                   ],
                   "description": null,
@@ -47,11 +48,12 @@
                         "archived": false,
                         "id": 7634677,
                         "language": "C",
-                        "last_commit": "2026-08-27T16:50:14Z",
+                        "last_commit": "2026-08-28T16:21:13Z",
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30702
-                      }
+                        "stars": 30711
+                      },
+                      "first_seen": "2026-08-28T20:12:29.055Z"
                     }
                   ],
                   "description": "Other values in :\nExample of (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under ):\nFull example:\nFor more information please look at these great explanations:",
@@ -74,9 +76,10 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240648
+                "stars": 240850
               },
-              "title": "Tool: system-other"
+              "title": "Tool: system-other",
+              "first_seen": "2026-08-28T20:12:29.055Z"
             },
             {
               "children": [],
@@ -89,9 +92,10 @@
                 "last_commit": "2024-11-19T14:00:38Z",
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 240648
+                "stars": 240850
               },
-              "title": "Tool: network-other"
+              "title": "Tool: network-other",
+              "first_seen": "2026-08-28T20:12:29.055Z"
             }
           ],
           "description": null,
@@ -103,7 +107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:04:29.003Z",
+    "last_updated": "2026-08-28T20:12:29.055Z",
     "original_repository_info": {
       "archived": false,
       "id": 138393139,
@@ -111,7 +115,7 @@
       "last_commit": "2024-11-19T14:00:38Z",
       "owner": "trimstray",
       "repo": "the-book-of-secret-knowledge",
-      "stars": 240648
+      "stars": 240850
     },
     "original_repository_sha": "7d37069a361d3fd9f214480755f7969744e866fa",
     "enhanced_repository": "enhansome/enhansome-the-book-of-secret-knowledge",
