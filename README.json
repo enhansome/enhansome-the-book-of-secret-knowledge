@@ -59,10 +59,10 @@
                         "language": "C",
                         "license": "Apache-2.0",
                         "last_commit": "2026-08-29T12:50:15Z",
-                        "open_issues": 1528,
+                        "open_issues": 1532,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30715,
+                        "stars": 30724,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -96,10 +96,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 241018,
+                "stars": 241191,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -137,10 +137,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 241018,
+                "stars": 241191,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:50:37.121Z",
+    "last_updated": "2026-08-30T13:48:22.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
@@ -185,10 +185,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-19T14:00:38Z",
-      "open_issues": 170,
+      "open_issues": 171,
       "owner": "trimstray",
       "repo": "the-book-of-secret-knowledge",
-      "stars": 241018,
+      "stars": 241191,
       "topics": [
         "awesome",
         "awesome-list",
