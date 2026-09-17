@@ -58,11 +58,11 @@
                         "id": 7634677,
                         "language": "C",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-09-16T12:17:15Z",
-                        "open_issues": 1541,
+                        "last_commit": "2026-09-17T12:50:17Z",
+                        "open_issues": 1535,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30787,
+                        "stars": 30789,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -96,10 +96,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 244088,
+                "stars": 244304,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -137,10 +137,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "trimstray",
                 "repo": "the-book-of-secret-knowledge",
-                "stars": 244088,
+                "stars": 244304,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:31:00.012Z",
+    "last_updated": "2026-09-17T13:28:25.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
@@ -185,10 +185,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2024-11-19T14:00:38Z",
-      "open_issues": 170,
+      "open_issues": 171,
       "owner": "trimstray",
       "repo": "the-book-of-secret-knowledge",
-      "stars": 244088,
+      "stars": 244304,
       "topics": [
         "awesome",
         "awesome-list",
