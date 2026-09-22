@@ -62,7 +62,7 @@ All **suggestions/PR** are welcome!
 
 This project exists thanks to all the people who contribute.
 
-[<img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false">](https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors) ⭐ 245,071 | 🐛 171 | 📅 2024-11-19
+[<img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false">](https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors) ⭐ 245,272 | 🐛 171 | 📅 2024-11-19
 
 ### Financial Contributors
 
@@ -77,7 +77,7 @@ This project exists thanks to all the people who contribute.
 
 ## :newspaper:  RSS Feed & Updates
 
-GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) ⭐ 245,071 | 🐛 171 | 📅 2024-11-19 feed of the commits, which may also be useful if you want to be kept informed about all changes.
+GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) ⭐ 245,272 | 🐛 171 | 📅 2024-11-19 feed of the commits, which may also be useful if you want to be kept informed about all changes.
 
 ## :ballot\_box\_with\_check:  ToDo
 
@@ -2775,7 +2775,7 @@ __EOF__
 
 For more information please look at these great explanations:
 
-* [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,818 | 🐛 1,548 | 🌐 C | 📅 2026-09-21
+* [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,822 | 🐛 1,561 | 🌐 C | 📅 2026-09-22
 * [RFC 5280](https://tools.ietf.org/html/rfc5280)
 * [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
 * [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
@@ -3047,7 +3047,7 @@ gpg2 --batch --list-packets archive.gpg
 
 ***
 
-##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 245,071 | 🐛 171 | 📅 2024-11-19
+##### Tool: [system-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-system-other) ⭐ 245,272 | 🐛 171 | 📅 2024-11-19
 
 ###### Reboot system from init
 
@@ -3953,7 +3953,7 @@ certbot certonly -d example.com -d www.example.com --rsa-key-size 4096
 
 ***
 
-##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 245,071 | 🐛 171 | 📅 2024-11-19
+##### Tool: [network-other](https://github.com/trimstray/the-book-of-secret-knowledge#tool-network-other) ⭐ 245,272 | 🐛 171 | 📅 2024-11-19
 
 ###### Get all subnets for specific AS (Autonomous system)
 
@@ -4445,4 +4445,4 @@ Unsuccessful ASN gathering.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
