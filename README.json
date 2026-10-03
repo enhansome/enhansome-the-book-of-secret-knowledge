@@ -12,7 +12,7 @@
                     {
                       "node_type": "item",
                       "title": "Look also: A naive utility to censor credentials in command history",
-                      "description": ".",
+                      "description": "lbonanomi/go",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -49,7 +49,7 @@
                     {
                       "node_type": "item",
                       "title": "openssl objects.txt",
-                      "description": null,
+                      "description": "openssl/openssl",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -59,10 +59,10 @@
                         "language": "C",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-02T10:31:16Z",
-                        "open_issues": 1522,
+                        "open_issues": 1530,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30877,
+                        "stars": 30880,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -83,88 +83,6 @@
               "description": null,
               "node_type": "group",
               "title": "Tool: openssl"
-            },
-            {
-              "children": [],
-              "description": null,
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-                "homepage": null,
-                "id": 138393139,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 172,
-                "owner": "trimstray",
-                "repo": "the-book-of-secret-knowledge",
-                "stars": 247396,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "bsd",
-                  "cheatsheets",
-                  "devops",
-                  "guidelines",
-                  "hacking",
-                  "hacks",
-                  "howtos",
-                  "linux",
-                  "lists",
-                  "manuals",
-                  "one-liners",
-                  "pentesters",
-                  "resources",
-                  "search-engines",
-                  "security",
-                  "security-researchers",
-                  "sysops"
-                ]
-              },
-              "title": "Tool: system-other",
-              "first_seen": "2026-08-28T20:12:29.055Z"
-            },
-            {
-              "children": [],
-              "description": null,
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-                "homepage": null,
-                "id": 138393139,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2024-11-19T14:00:38Z",
-                "open_issues": 172,
-                "owner": "trimstray",
-                "repo": "the-book-of-secret-knowledge",
-                "stars": 247396,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "bsd",
-                  "cheatsheets",
-                  "devops",
-                  "guidelines",
-                  "hacking",
-                  "hacks",
-                  "howtos",
-                  "linux",
-                  "lists",
-                  "manuals",
-                  "one-liners",
-                  "pentesters",
-                  "resources",
-                  "search-engines",
-                  "security",
-                  "security-researchers",
-                  "sysops"
-                ]
-              },
-              "title": "Tool: network-other",
-              "first_seen": "2026-08-28T20:12:29.055Z"
             }
           ],
           "description": null,
@@ -176,7 +94,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:44:48.640Z",
+    "last_updated": "2026-10-03T05:09:43.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
@@ -188,7 +106,7 @@
       "open_issues": 172,
       "owner": "trimstray",
       "repo": "the-book-of-secret-knowledge",
-      "stars": 247396,
+      "stars": 247537,
       "topics": [
         "awesome",
         "awesome-list",
