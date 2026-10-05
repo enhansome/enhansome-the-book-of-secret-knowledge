@@ -2775,7 +2775,7 @@ __EOF__
 
 For more information please look at these great explanations:
 
-* [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,886 | 🐛 1,532 | 🌐 C | 📅 2026-10-02
+* [openssl objects.txt](https://github.com/openssl/openssl/blob/master/crypto/objects/objects.txt) ⭐ 30,892 | 🐛 1,526 | 🌐 C | 📅 2026-10-05
 * [RFC 5280](https://tools.ietf.org/html/rfc5280)
 * [How to create multidomain certificates using config files](https://apfelboymchen.net/gnu/notes/openssl%20multidomain%20with%20config%20files.html)
 * [Generate a multi domains certificate using config files](https://gist.github.com/romainnorberg/464758a6620228b977212a3cf20c3e08)
@@ -4445,4 +4445,4 @@ Unsuccessful ASN gathering.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
