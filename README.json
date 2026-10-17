@@ -59,10 +59,10 @@
                         "language": "C",
                         "license": "Apache-2.0",
                         "last_commit": "2026-10-15T17:33:14Z",
-                        "open_issues": 1562,
+                        "open_issues": 1567,
                         "owner": "openssl",
                         "repo": "openssl",
-                        "stars": 30958,
+                        "stars": 30968,
                         "topics": [
                           "cryptography",
                           "decryption",
@@ -94,7 +94,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:15:44.299Z",
+    "last_updated": "2026-10-17T12:11:45.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
@@ -106,7 +106,7 @@
       "open_issues": 175,
       "owner": "trimstray",
       "repo": "the-book-of-secret-knowledge",
-      "stars": 250534,
+      "stars": 250776,
       "topics": [
         "awesome",
         "awesome-list",
